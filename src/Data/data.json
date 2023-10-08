@@ -1,0 +1,39 @@
+{
+  "StoreItems": [
+    {
+      "id": 1,
+      "Name": "Item1",
+      "Price": 106.99,
+      "Quantity": 10,
+      "images": "/item.jpg"
+    },
+    {
+      "id": 2,
+      "Name": "Item2",
+      "Price": 268.99,
+      "Quantity": 20,
+      "images": "/item.jpg"
+    },
+    {
+      "id": 3,
+      "Name": "Item3",
+      "Price": 300.99,
+      "Quantity": 30,
+      "images": "/item.jpg"
+    },
+    {
+      "id": 4,
+      "Name": "Item4",
+      "Price": 250.99,
+      "Quantity": 30,
+      "images": "/item.jpg"
+    },
+    {
+      "id": 5,
+      "Name": "Item5",
+      "Price": 400.99,
+      "Quantity": 30,
+      "images": "/item.jpg"
+    }
+  ]
+}
